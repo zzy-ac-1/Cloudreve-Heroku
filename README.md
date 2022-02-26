@@ -4,7 +4,7 @@ Cloudreve with redis的Docker版本
 
 ---
 
-一键部署在Heroku上：[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/useblue/Cloudreve-Heroku/tree/Heroku-mysql)
+一键部署在Heroku上：[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NaMiracle/Cloudreve-Heroku/tree/Heroku-mysql)
 
 ---
 
