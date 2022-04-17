@@ -4,10 +4,6 @@ cat <<-EOF > /root/cloudreve/conf.ini
 Mode = master
 Listen = :${PORT}
 Debug = false
-[Redis]
-Server = ${REDIS_URL##*@}
-Password = ${REDIS_URL:9:65}
-DB = 0
 [Database]
 Type = postgres
 Host = ${DATABASE_URL:91:41}
