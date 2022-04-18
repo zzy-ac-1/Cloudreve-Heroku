@@ -1,9 +1,9 @@
 {
     "name": "Cloudreve-Heroku",
     "description": "Cloureve on Heroku",
-    "repository": "https://github.com/useblue/Cloudreve-Heroku/tree/Cloudreve-Heroku",
+    "repository": "https://github.com/zzy-ac/Cloudreve-Heroku/tree/Cloudreve-Heroku",
     "website": "https://ifibe.com/posts/c12ba40e/",
-    "keywords": ["cloudreve", "redis", "netdisc", "share"],
+    "keywords": ["cloudreve", "netdisc", "share"],
     "addons": [
       "heroku-postgresql:hobby-dev"
     ],
